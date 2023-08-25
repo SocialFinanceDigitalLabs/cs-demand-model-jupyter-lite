@@ -44,3 +44,6 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Social Finance Libraries
+cs-demand-model>=0.5.0
